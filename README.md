@@ -4,7 +4,7 @@ Hello Microverse project is to implement GitHub flow, a linter, and a profession
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-Additional description about the project and its features.
+This project is setup for lint and GitHub flow experience.
 
 # Built With
 
